@@ -1,0 +1,26 @@
+{
+  "name": "tele-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "exceljs": "^4.4.0",
+    "franc-min": "^6.2.0",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.16.5",
+    "node-cron": "^4.2.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "razorpay": "^2.9.6",
+    "sqlite3": "^5.1.7",
+    "xlsx": "^0.18.5"
+  }
+}
